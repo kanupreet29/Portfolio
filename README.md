@@ -24,7 +24,6 @@
 
 
 
-
 # Work Experience
 #### ![IMG_1330](https://github.com/kanupreet29/Portfolio/assets/130524660/d8c90c04-ae5e-4902-b81a-fc9f111ce8ec)
 
