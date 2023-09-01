@@ -3,9 +3,13 @@
 
 
 
-#### ![IMG_1329](https://github.com/kanupreet29/Portfolio/assets/130524660/1c064080-dc61-4596-8d35-4cbd4c39bed9)
+
+
+
 
 # Education
+
+#### ![IMG_1329](https://github.com/kanupreet29/Portfolio/assets/130524660/1c064080-dc61-4596-8d35-4cbd4c39bed9)
 
 ### University of Toronto, Mississauga (Sep 2022 – Present) -
 #### Honors Bachelors of Science
@@ -22,6 +26,8 @@
 
 
 # Work Experience
+#### ![IMG_1330](https://github.com/kanupreet29/Portfolio/assets/130524660/d8c90c04-ae5e-4902-b81a-fc9f111ce8ec)
+
 
 
 ### University of Toronto, Mississauga, CHiLD Lab (May 2023 – Present) -
