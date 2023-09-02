@@ -1,4 +1,5 @@
-# Hi there! I'm Kanupreet and welcome to my online Portfolio
+# Kanupreet Arora 
+Hi there! I'm Kanupreet and Welcome to my Online Portfolio
 ![Kanupreet Adult](https://github.com/kanupreet29/Portfolio/assets/130524660/991d807c-602c-4dc3-8c4d-f7bc2aa3a6be)
 
 
