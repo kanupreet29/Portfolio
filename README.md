@@ -1,11 +1,5 @@
-
+# Hi there! I'm Kanupreet and welcome to my online Portfolio
 ![Kanupreet Adult](https://github.com/kanupreet29/Portfolio/assets/130524660/991d807c-602c-4dc3-8c4d-f7bc2aa3a6be)
-
-
-# Hi there! I'm Kanupreet
-
-> Welcome to my online portfolio
-
 
 
 ##### I am a second year undergraduate student persuing Honors Bachelors of Science at University of Toronto Mississauga! Passionate about learning and growing in the field of Technology.
