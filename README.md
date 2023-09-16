@@ -133,7 +133,7 @@ Creativity, Analysis, Problem Solving, Communication
 # Interests
 
 ### Instagram:
-> I am a Digital Creator on Instagram with over 6700+ followers
+> I am a Digital Creator on Instagram with over 6500+ followers
 
 ### Youtube:
 > I am a Youtuber with over 1.97k+ subscribers making Lifestyle and dance videos
