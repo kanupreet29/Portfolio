@@ -35,17 +35,17 @@ Hi there! I'm Kanupreet and Welcome to my Online Portfolio
 
 Skills: Research, Graphic Design, Wix Website Builder, DaVinchi, Canva, Social Media, Adobe Illustrator
 
-> Creating stimuli, illustrations and drawings to be used in promotional or experimental settings using Adobe Illustrator
+> Create stimuli, illustrations and drawings to be used in promotional or experimental settings using Adobe Illustrator
 
-> Conducting interviews with key faculty members, students, and alumni
+> Conduct interviews with key faculty members, students, and alumni
 
-> Creating recruitment and promotional materials (e.g. flyers, short video clips)
+> Create recruitment and promotional materials (e.g. flyers, short video clips)
 
-> Leading outreach campaigns
+> Lead outreach campaigns
 
-> Filming for Youtube Videos/Shorts, Instagram Reels/Videos and Tik Tok using DaVinchi.
+> Film for Youtube Videos/Shorts, Instagram Reels/Videos and Tik Tok using DaVinchi.
 
-> Editing Videos or pre-made videos for Instagram and Youtube
+> Edit Videos or pre-made videos for Instagram and Youtube
 
 > Responsible for Linkedin account analytics and publishing posts
 
@@ -55,11 +55,22 @@ Skills: Research, Graphic Design, Wix Website Builder, DaVinchi, Canva, Social M
 
 Skills: Leadership, Research, Teamwork, Time management
 
-> Leading study sessions that support students in developing their skills in the context of a specific course
+> Lead study sessions that support students in developing their skills in the context of a specific course
 
->  Preparing weekly session plans for students
+> Prepare weekly session plans for students
 
-> Advertising FSG Session each week
+> Advertise FSG Session each week
+
+
+### UofT Scientista
+#### Social Media Team Member
+
+Skills: Leadership, Research, Teamwork, Time management, Mentoring, Canva, Adobe
+
+> This is a women in STEM club where I mentor students.
+
+> Prepare social media posts
+
 
 
 ### University of Toronto, Mississauga, Erindale Punjabi Association (EPA)
@@ -67,9 +78,7 @@ Skills: Leadership, Research, Teamwork, Time management
 
 Skills: Leadership, Public Speaking, Decision Making, Planning and Organization of Events.
 
-> Planning and Coordinating Events
-
-> Selecting Venue
+> Plan and Coordinate Events
 
 > Making sure everything is executed well
 
