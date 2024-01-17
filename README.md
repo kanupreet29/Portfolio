@@ -48,7 +48,7 @@ Skills: Research, Graphic Design, Wix Website Builder, DaVinchi, Canva, Social M
 > Responsible for Linkedin account analytics and publishing posts
 
 
-### University of Toronto, Mississauga, Robert Gillespie Academic Skill Centre
+### University of Toronto, Mississauga, Robert Gillespie Academic Skill Centre (September 2023 - December 2023)
 #### FSG Leader (Peer Facilitator)
 
 Skills: Leadership, Research, Teamwork, Time management
@@ -61,7 +61,7 @@ Skills: Leadership, Research, Teamwork, Time management
 
 
 ### UofT Scientista
-#### Social Media Team Member
+#### Social Media Team Member (September 2023 - April 2024)
 
 Skills: Leadership, Research, Teamwork, Time management, Mentoring, Canva, Adobe
 
@@ -71,7 +71,7 @@ Skills: Leadership, Research, Teamwork, Time management, Mentoring, Canva, Adobe
 
 
 
-### University of Toronto, Mississauga, Erindale Punjabi Association (EPA)
+### University of Toronto, Mississauga, Erindale Punjabi Association (EPA) (September 2023 - April 2024)
 #### Events Coordinator
 
 Skills: Leadership, Public Speaking, Decision Making, Planning and Organization of Events.
@@ -82,6 +82,15 @@ Skills: Leadership, Public Speaking, Decision Making, Planning and Organization 
 
 
 # Project
+September 2023 - October 2023
+#### Adventure Game - Code Chronicles
+> Java
+
+> Made a visual and text based adventure game in java that outputs sound descriptions so that it is accessible to people with disabilities too.
+
+>Created a version of adventure game with graphical user interface (GUI) using model-view-controller (MVC) system.
+
+
 Dec 2021 – Feb 2022
 #### Bella Bella Closet
 > PHP, MySQL, WordPress
@@ -125,16 +134,39 @@ Creativity, Analysis, Problem Solving, Communication
 
 # Skills
 ### Programming : 
-> Python, C, C++, HTML, Java, MySQL, CSS, WordPress, Algorithms, Testing, Debugging
+> C, Java, Python, SQL, PHP, HTML, CSS, JSON.
 
 ### Design and Modelling: 
-> Canva, Wix, Figma, DaVinchi, Adobe Illustrator, Scratch, Photoshop
+> Figma, Wix, Canva, Scratch, Photoshop, AutoCAD
 
 ### Data Analysis and Statistics: 
-> Microsoft Word, Microsoft Exel, Microsoft Powerpoint, R, User Interface
+> Microsoft (Word, Excel(creating pivot tables, formulas, and macros), Outlook, PowerPoint, Access, Projects, Power),
+ Google Suite (Docs, Sheets, Slides, Forms.), Power BI
 
-### Other:
-> Artificial Intelligence, Machine Learning, TCP/IP, Handling Social Media(Instagram, TikTok and Youtube)
+### IT and Troubleshooting:
+> Help Desk, IT Software and equipment Installation, IT Technical Problem Solving and troubleshooting, Understanding about  broadband access equipment, Organizing, delivering user training, miscellaneous computer hardware issues, Smartphone issues(iOS, Android), VPN Issues, LAN/WAN Wi-fi issues, Outlook Client Email issues, Knowledge of Nokia IP equipment, Knowledge about LTE/5G Networks, Internet surfing / browser issues, Microsoft Office / Office 365 issues, Desk Phone / Recording Phone issue, Printer/Scanner issues,  and ACL issues and great understanding of Technology.
+
+### Framework:
+> Java FX, GUI, MVC, JUnit.
+
+### Software:
+> R, Da Vinci, iMovie, Tableau.
+
+### Networking:
+> TCP/IP, Network protocols(HTTP, FTP, DNS), Routing, Switching, Firewall configuration, Systems administration.
+
+### Operating Systems:
+> Windows, macOS, Linux, Android, iOS.
+
+### Version Control:
+> Git
+
+### Software Development:
+> OOP, Software design patterns, Database development, Software testing, Debugging, Agile Methods, Scrum,  Software documentation, 
+Creating test suites, Source Code Analysis, Developing design patterns, Writing unit tests.
+
+### Data Structures:
+> Sorting algorithms, Searching algorithms, Graph algorithms, Linked lists, Arrays, Stacks, Queues, Trees, Hash tables,
 
 
 # Interests
@@ -147,21 +179,6 @@ Creativity, Analysis, Problem Solving, Communication
 
 ### Dance, Fitness and Sports:
 > Bhangra, Running, Basketball, Lawn Tennis, Swimming, Volleyball, Badminton, Hockey Skating, Roller Skating
-
-
-# Communication
-### English:
-> Proficient 
-
-### French:
-> Beginner 
-
-### Hindi:
-> Proficient 
-
-### Punjabi:
-> Proficient
-
 
 
 
