@@ -144,7 +144,7 @@ Creativity, Analysis, Problem Solving, Communication
  Google Suite (Docs, Sheets, Slides, Forms.), Power BI
 
 ### IT and Troubleshooting:
-> Help Desk, IT Software and equipment Installation, IT Technical Problem Solving and troubleshooting, Understanding about  broadband access equipment, Organizing, delivering user training, miscellaneous computer hardware issues, Smartphone issues(iOS, Android), VPN Issues, LAN/WAN Wi-fi issues, Outlook Client Email issues, Knowledge of Nokia IP equipment, Knowledge about LTE/5G Networks, Internet surfing / browser issues, Microsoft Office / Office 365 issues, Desk Phone / Recording Phone issue, Printer/Scanner issues,  and ACL issues and great understanding of Technology.
+> IT Software and equipment Installation, IT Technical Problem Solving and troubleshooting, Understanding about  broadband access equipment, Organizing, delivering user training, miscellaneous computer hardware issues, Smartphone issues(iOS, Android), VPN Issues, LAN/WAN Wi-fi issues, Outlook Client Email issues, Knowledge about LTE/5G Networks, Internet surfing / browser issues, Microsoft Office / Office 365 issues, Desk Phone / Recording Phone issue, Printer/Scanner issues,  and ACL issues and great understanding of Technology.
 
 ### Framework:
 > Java FX, GUI, MVC, JUnit.
